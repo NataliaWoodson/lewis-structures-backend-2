@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["env-lewisStructuresMain.eba-u8ruwggm.us-west-2.elasticbeanstalk.com", '127.0.0.1' ]
+ALLOWED_HOSTS = ["env-lewisStructuresMain.eba-u8ruwggm.us-west-2.elasticbeanstalk.com", '127.0.0.1','lewis-structures.purseev-api.com' ]
 
 
 # Application definition
